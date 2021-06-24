@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: flask-proba
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18D546A148F14952A88E247F5CD0BEE8 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E313DCB43154F3884CC73CA1FD38856 }}
 
